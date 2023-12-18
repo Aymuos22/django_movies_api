@@ -19,7 +19,7 @@ Database: Utilizes SQLite/PostgreSQL for data storage.
 
 
 #Installation & Usage:
-Clone the repository: git clone https://github.com/Aymuos22/django-movie-api.git
+Clone the repository: git clone https://github.com/Aymuos22/django_movie_api.git
 Install dependencies: pip install -r requirements.txt
 Set up the database: python manage.py migrate
 Run the development server: python manage.py runserver
